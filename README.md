@@ -1,2 +1,2 @@
 # system-information-python
-this is for cheak the issue or solution 
+A Python-based system information tool for monitoring CPU, RAM, operating system, and disk space.
